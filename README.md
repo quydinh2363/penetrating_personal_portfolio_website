@@ -66,8 +66,8 @@ cur.execute(query,(username,password))
 
 ## Reference
 
-https://www.youtube.com/@ryan_phdsec
-https://www.youtube.com/@codehal
+- https://www.youtube.com/@ryan_phdsec
+- https://www.youtube.com/@codehal
 
 ![HobbyProject](https://img.shields.io/badge/version-1.0-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
