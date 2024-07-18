@@ -2,7 +2,7 @@
 
 This repository contains the source code for my designing of personal portfolio website. 
 - Link for my webstie: https://portfolio-website-ten-sigma-22.vercel.app/
-- usename: admin 
+- username: admin 
 - password: 123
 
 ## Table of Contents
