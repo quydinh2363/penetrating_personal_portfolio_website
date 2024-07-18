@@ -1,7 +1,9 @@
 # Penetrating personal portfolio website
 
-This repository contains the source code for my designing of personal portfolio website.
-- Link for my webstie: https://personal-portfolio-website-quydinh2363-quydinh2363s-projects.vercel.app/
+This repository contains the source code for my designing of personal portfolio website. 
+- Link for my webstie: https://portfolio-website-ten-sigma-22.vercel.app/
+- usename: admin 
+- password: 123
 
 ## Table of Contents
 
@@ -30,7 +32,7 @@ This project showcases my personal portfolio website which I developed to demons
 
 ### Discovery
 
-During the security assessment, I identified an SQL Injection vulnerability in the login functionality. I accidentally tried to leave the `login input` not clean and correct, allowing attackers to inject malicious SQL code.
+During the security assessment, I identified an SQL Injection vulnerability in the login functionality. Deliberately,I leave the `login input` not clean and correct, allowing attackers to inject malicious SQL code.
 For example, `admin'-- or 1==1`
 
 <div <div align="center">
