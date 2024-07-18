@@ -33,10 +33,10 @@ This project showcases my personal portfolio website which I developed to demons
 ### Discovery
 
 During the security assessment, I identified an SQL Injection vulnerability in the login functionality. Deliberately,I leave the `login input` not clean and correct, allowing attackers to inject malicious SQL code.
-For example, `admin'-- or 1==1`
+For example, `admin'-- or 1=1`
 
 <div <div align="center">
-    <img src="https://github.com/quydinh2363/bypass_login_web/blob/main/images/login%20page.png" alt="Centered Image">
+    <img src="https://github.com/quydinh2363/penetrating_personal_portfolio_website/blob/main/images/loginpage.png" alt="Centered Image">
 </div>
 
 ### Exploitation
