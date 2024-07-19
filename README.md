@@ -43,8 +43,8 @@ For example, `admin'-- or 1=1`
 
 ### Exploitation
 
-For more details
-You can find in the <a href="https://github.com/quydinh2363/bypass_login_web/tree/main/images">images folder</a>.
+For more details,
+you can find in the <a href="https://github.com/quydinh2363/bypass_login_web/tree/main/images">images folder</a>.
 
 
 ### Mitigation
