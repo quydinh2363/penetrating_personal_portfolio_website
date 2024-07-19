@@ -25,8 +25,10 @@ This project showcases my personal portfolio website which I developed to demons
 - HTML
 - CSS
 - JavaScript
-- Python (Flask) or your back-end framework
-- SQLite (or your database of choice).
+- Python (Flask)
+- SQLite
+- Burp Suite
+- Vercel
 
 ## SQL Injection Vulnerability
 
